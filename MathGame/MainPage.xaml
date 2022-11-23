@@ -8,10 +8,12 @@
 
     <ContentView>
         <VerticalStackLayout Padding="50" Spacing="25">
+
             <Label
                 FontSize="50"
                 HorizontalOptions="Center"
                 Text="This is your maths game!" />
+
             <Label
                 FontSize="50"
                 HorizontalOptions="Center"
