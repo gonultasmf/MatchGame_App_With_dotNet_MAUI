@@ -59,6 +59,7 @@
                     FontSize="60"
                     MaximumWidthRequest="100"
                     Text="÷" />
+                
 
                 <Button
                     Grid.Row="1"
